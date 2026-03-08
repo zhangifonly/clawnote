@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+memory/
+.openclaw/
+pending-xhs/
