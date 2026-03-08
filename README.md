@@ -24,7 +24,7 @@ This is not a "one-click growth hack". The core design principle is:
 ## What Is Included
 
 ```text
-openclaw-xiaohongshu-ops/
+clawnote/
 ├── README.md
 ├── .gitignore
 ├── workspace-template/
